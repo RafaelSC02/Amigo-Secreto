@@ -60,7 +60,7 @@ function sortearAmigo() {
     resultado.innerHTML = `Amigo secreto sorteado: <strong>${amigoSorteado}</strong>`; 
 
     // Limpa a lista de amigos
-    amigos = []; // Limpa o array de amigos
+    amigos = []; 
     atualizarListaAmigos();
 
 }
