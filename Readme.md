@@ -1,8 +1,8 @@
-- Descrição
+Descrição
 
 Este é um projeto simples para gerenciar e sortear um amigo secreto. Os usuários podem adicionar nomes à lista de amigos e realizar um sorteio aleatório. O projeto utiliza HTML, CSS e JavaScript puro para interatividade.
 
-- Funcionalidades
+Funcionalidades
 
 * Adicionar amigos à lista
 
@@ -22,7 +22,7 @@ Este é um projeto simples para gerenciar e sortear um amigo secreto. Os usuári
 
 * JavaScript
 
-- Como Usar
+Como Usar
 
 Insira o nome de um amigo no campo de entrada.
 
@@ -32,7 +32,7 @@ Quando houver pelo menos dois amigos na lista, clique no botão "Sortear".
 
 O nome sorteado será exibido na tela e a lista será reiniciada.
 
-- Estrutura do Código
+Estrutura do Código
 
 amigos[]: Array que armazena os nomes dos amigos.
 
