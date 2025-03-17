@@ -14,7 +14,7 @@ Funcionalidades
 
 * Limpar a lista após o sorteio
 
-- Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 * HTML
 
